@@ -3,3 +3,10 @@ configuration
 >git config --list [list all config details]
 >git config --global user.name "username" [adding a global user.name]
 >git config --global user.email "useremail@gamil.com [adding global user.email]
+
+command for inittalizing git repository:
+   >git init
+command for adding all changes to staging area:
+   >git add -A
+command for adding staged files to local repository
+   >git commit -m "commit message"
