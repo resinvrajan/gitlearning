@@ -10,3 +10,6 @@ command for adding all changes to staging area:
    >git add -A
 command for adding staged files to local repository
    >git commit -m "commit message"
+
+command for listing all untracked files
+   >git status
