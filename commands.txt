@@ -13,3 +13,8 @@ command for adding staged files to local repository
 
 command for listing all untracked files
    >git status
+
+command for add remote repository
+   >git remote add name path
+command for push to remote repository
+   >git push name master
